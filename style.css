@@ -1,0 +1,67 @@
+body{
+background-color: rgb(153, 7, 7);
+
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1{
+    color:rgb(255, 255, 255);
+    text-align: center;
+    text-shadow:0px 0px 10px #00ffcc;
+}
+
+    
+
+p{
+    color:rgb(253, 253, 253);
+    text-align: center;
+    text-align: justify;
+    width: 60%;
+    margin: 20px auto;
+}p
+{
+    color:rgb(253, 253, 253);
+    text-align: center;
+    text-align: justify;
+    width: 60%;
+    margin: 20px auto;
+}p
+{
+    color:rgb(253, 253, 253);
+    text-align: center;
+    text-align: justify;
+    width: 60%;
+    margin: 20px auto;
+
+    
+
+
+
+}
+img{
+
+height: auto; /* mantem proporção da imagem */
+width: 35%; /* define largura */
+max-width: 400px; /* limita tamnho maximo*/
+display: block; /* permite centralização */
+margin: 20px auto; /* centraliza a imagem */
+border-radius: 10px; /* bordas arredondadas */
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
